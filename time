@@ -1,0 +1,8 @@
+this is for branch test
+1. make branch 'test'
+2. checkout test branch and make date.txt
+3. reset to before making branch
+4. checkout main branch
+5. delete 'test' branch
+6. making this text file
+7. commit and push
