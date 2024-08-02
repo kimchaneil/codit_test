@@ -1,0 +1,42 @@
+[33mcommit d714b05de254a862cbb8972cbf99ca352948c9a3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: kimchaneil <chaneil2@naver.com>
+Date:   Thu Aug 1 14:49:53 2024 +0900
+
+    remove_test2.txt
+
+[33mcommit cbf1b4546c803f7c432db184bf29f19d04b92ff7[m[33m ([m[1;31morigin/test[m[33m)[m
+Author: kimchaneil <chaneil2@naver.com>
+Date:   Thu Aug 1 14:43:52 2024 +0900
+
+    solve conflict problem
+
+[33mcommit fb1bd3a69b223671127dacd9fca124983a7cc7e6[m
+Merge: 406a75d 0a25007
+Author: kimchaneil <chaneil2@naver.com>
+Date:   Thu Aug 1 14:39:58 2024 +0900
+
+    merge_crash
+
+[33mcommit 406a75d2d84e3a7e46b42ded34b1c1c8483f9b4b[m
+Author: kimchaneil <chaneil2@naver.com>
+Date:   Thu Aug 1 14:38:25 2024 +0900
+
+    add_a.txt_branch_test
+
+[33mcommit 0a25007bab4ccdea2245fb9a19b8ee215fef381f[m
+Author: kimchaneil <chaneil2@naver.com>
+Date:   Thu Aug 1 14:37:02 2024 +0900
+
+    add_a.txt
+
+[33mcommit 70c086a65a810e27dcb012a52b5752fc8424831d[m
+Author: kimchaneil <chaneil2@naver.com>
+Date:   Thu Aug 1 11:38:17 2024 +0900
+
+    re_add_readme
+
+[33mcommit 6ba06351e2af1f5bd58efd9c974b25e416e83664[m
+Author: kimchaneil <chaneil2@naver.com>
+Date:   Thu Aug 1 11:33:57 2024 +0900
+
+    add txt_file
